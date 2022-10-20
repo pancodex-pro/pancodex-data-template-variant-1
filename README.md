@@ -1,2 +1,2 @@
-# pancodex-data-template-variant-1
-Pancodex Website Data Template
+# Pancodex Website Data Template
+
